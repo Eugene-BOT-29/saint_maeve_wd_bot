@@ -20,7 +20,7 @@ PRIZES = {
 user_rolled = {}
 
 # ===== ВАШИ ДАННЫЕ =====
-BOT_TOKEN = "8095589286:AAEZ8NRbc2NKyY_b2RKjXlM0bTo2gzc2Q9k"
+BOT_TOKEN = "8713653388:AAHIsFenDBXtA4I5VXbgVJhGijvXEqtmkiY"
 ADMIN_ID = 5095030147
 # =======================
 
